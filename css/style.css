@@ -1,0 +1,7 @@
+.magenta{
+    background-color: magenta;
+}
+.gradient{
+    background: rgb(98,34,195);
+background: linear-gradient(0deg, rgba(98,34,195,1) 0%, rgba(251,109,105,1) 100%);
+}
